@@ -1,2 +1,5 @@
 # webpack-practice
-webpack開発練習用
+
+webpack 開発練習用
+
+https://enjoyworks.jp/tech-blog/6889
